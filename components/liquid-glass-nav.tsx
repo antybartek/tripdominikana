@@ -98,7 +98,7 @@ export function LiquidGlassNav() {
                   <a
                     key={item.name}
                     href={item.href}
-                    className="text-white/90 hover:text-white transition-colors duration-200 text-sm font-medium whitespace-nowrap"
+                    className="text-white/90 hover:text-white transition-colors duration-200 text-base font-medium whitespace-nowrap"
                   >
                     {item.name}
                   </a>
@@ -110,7 +110,7 @@ export function LiquidGlassNav() {
               <LanguageSwitcher />
               <Button
                 onClick={() => setIsContactModalOpen(true)}
-                className="bg-gray-900 hover:bg-gray-800 text-white font-medium px-4 py-2 rounded-full text-sm shadow-lg"
+                className="bg-gray-900 hover:bg-gray-800 text-white font-medium px-6 py-2.5 rounded-full text-base shadow-lg"
               >
                 {t("nav.quote")}
               </Button>
