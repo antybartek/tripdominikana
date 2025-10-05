@@ -206,9 +206,9 @@ const translations = {
     "reviews.marcin.content": "Świetna wycieczka! Puerto Plata to piękne miasto, a wodospady to niesamowita przygoda. Gorąco polecam!",
 
     // Offer Section (Special Offer)
-    "offer.title": "City Tour z Górą Isabel i lunchem + 27 Wodospadów z tradycyjnym lunchem",
+    "offer.title": "Wycieczka po Mieście z Górą Isabel i lunchem + 27 Wodospadów z tradycyjnym lunchem",
     "offer.description": "Poznaj uroki Puerto Plata w dwa dni. Pierwszego dnia zwiedź miasto z Górą Isabel, a drugiego przeżyj przygodę na 27 wodospadach Damajagua.",
-    "offer.day1.title": "Dzień 1: City Tour z Górą Isabel i lunchem",
+    "offer.day1.title": "Dzień 1: Wycieczka po Mieście z Górą Isabel i lunchem",
     "offer.day1.description": "Odkryj uroki Puerto Plata podczas fascynującej wycieczki po mieście! Podziwiaj widoki z Góry Isabel, poznaj lokalną kulturę i historię. W cenie pyszny lunch z dominikańskimi smakami.",
     "offer.day2.title": "Dzień 2: 27 Wodospadów z tradycyjnym lunchem",
     "offer.day2.description": "Przygoda w sercu natury! Skoki, zjazdy i pływanie w naturalnych basenach Damajagua. Po aktywnościach – tradycyjny dominikański lunch.",
