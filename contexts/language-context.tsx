@@ -274,17 +274,17 @@ const translations = {
     "whyus.price.desc": "We guarantee competitive rates",
 
     // Tours Section
-    "tours.title": "Nasze najpopularniejsze wycieczki",
-    "tours.damajagua.title": "Wodospady Damajagua",
-    "tours.damajagua.desc": "27 naturalnych basenów i wodospadów",
-    "tours.damajagua.price": "od 89$",
-    "tours.saona.title": "Wyspa Saona",
-    "tours.saona.desc": "Rajska wyspa z białymi plażami",
-    "tours.saona.price": "od 79$",
-    "tours.catamarano.title": "Rejs Catamaranem",
-    "tours.catamarano.desc": "Relaks na krystalicznie czystych wodach",
-    "tours.catamarano.price": "od 99$",
-    "tours.book": "Zarezerwuj",
+    "tours.title": "Our Most Popular Tours",
+    "tours.damajagua.title": "Damajagua Waterfalls",
+    "tours.damajagua.desc": "27 natural pools and waterfalls",
+    "tours.damajagua.price": "from $89",
+    "tours.saona.title": "Saona Island",
+    "tours.saona.desc": "Paradise island with white beaches",
+    "tours.saona.price": "from $79",
+    "tours.catamarano.title": "Catamaran Cruise",
+    "tours.catamarano.desc": "Relax on crystal clear waters",
+    "tours.catamarano.price": "from $99",
+    "tours.book": "Book Now",
 
 
     // Services Section
