@@ -8,7 +8,7 @@ export function HeroSection() {
   const { t } = useLanguage()
 
   return (
-    <section id="hero" className="relative min-h-screen flex items-center justify-center overflow-hidden bg-slate-900 pt-28 md:pt-0">
+    <section id="hero" className="relative min-h-screen flex items-center justify-center overflow-hidden bg-slate-900 pt-32 sm:pt-36 md:pt-24 lg:pt-28 xl:pt-0">
       {/* Background Image */}
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat bg-slate-900"
